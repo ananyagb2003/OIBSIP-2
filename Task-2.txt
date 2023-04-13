@@ -1,0 +1,84 @@
+<!--Web development code to create a personal portfolio-->
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Portfolio</title>
+   </head>
+
+   <!--CSS part-->
+
+   <style>
+      body{
+         background-color: rgb(144, 206, 187);
+      }
+.box{
+   background-color: white;
+   margin: 30px;
+   width:1120px;
+   height:490px;
+   border-radius: 50px;
+
+}
+.right{
+   float:right;
+   padding: 50px;
+}
+.left{
+   padding:20px;
+   margin-left:20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.left1{
+   float:right;
+}
+.left2{
+   margin-left:600px;
+}
+h1{
+   margin-left: 500px;
+}
+.last{
+   margin-left: 190px;
+}
+   </style>
+
+   <!--HTML part-->
+
+   <body>
+   <h1>PORTFOLIO</h1>
+   <div class="box">
+<div class="right">
+   <img src="https://lh3.googleusercontent.com/QQn-YcmAArNfOviotEpBrBvCMLdgDpv5i6U8mBADNJglWm-S1Ml6RF_fE8hn_-vjoisgTmUMPcKodrzLZP3kJxrt-IaRf2aYOEIv15ToOTG5l0sLjoxLW4i_HtqHOjoQuqY2od3hDNzZeih4htkRAz5AyQdgfuHmwu_WhzFd-yEnJlFh4iWx_NHE-EogDqrOq2yxqxFzt2_zK2VHQ07AevGxDago3VpW_-lEzqbhZQ9wlgEBTKh5M5LhFzrTuAeZXVU5CkPc_Ir9PIK_ANFVTUp3du7pHjQYdeTmFr8W640BFdA1GAoAQtTmK5KVyvcgMPcI1kv17ZqHDvJg0VKyW2zvPCIO2i7isMM9po3WUmeilgsmvEfOTNSmlcV97C4UmIJI9o7Gm5n-qXEoWna-htJArh6udou9bXV3T6Z3tA4kzDv0UI7NwZbTr2OLZPOpS13pziJPUv7myRLT8wlPGsNKsx9RBDVlP8azs-r-SfOouVPfycVvTRmbURAxGf3z_SjoNh54XMHOiuiVjrVl13jQZRxOm0UVCCreFSdZhs4VSCl32L6JoZIY5msGZZBmzqcElOuqRORUGZkSpUJryhpgYwIi5gzzP0z2JfAJxQc1CjKyLYPVpVx40Myef3_DQHWvvw-JE7i0afT28F1KmpOlZEns9vBniyOSj2I6BYyxqS1MqoLaX0DNxHY6beXkc0bdEUXTFMmMQj-9dLIzxROd0dM_OBuhosVc-Vod2rC0nYTXUJevtl6OHXfZgcJSgmHLfeXbRsYJdet9CuEn86Plj56tOFSYBFGDNmeqyRjtiNXpqzx7XbIBBUV0n0Gt1y3svilcs5qBIK1wmOnI68V7q8OdRAapzn4mAz8AZuFJdTtJf_28mqm88LaTbvA8F3h5Y2sorU_uW3rNGz68WcySgi1fnrivb0ncpxQqFgLw=w677-h902-s-no?authuser=0" height="150" width="150">
+</div>
+<div class="left">
+<p><b>Welcome to my portfolio!!</b></p>
+<p>I am Ananya bhat, a 2nd year student at Nitte Meenakshi Institute of Technology(NMIT),Bangalore. I have gained a little expierence within these 1 year of engineering,
+ and extracurricular activities. My goal is to pursue a career in Software engineering and I will be presenting you my skills.</p>
+ <p><b>Specialization:</b> <br>                                                                                              
+   Information Science and engineering(ISE)                                        
+      </p>
+ <p class="left1">
+   <b>Internships:</b><br>
+   College internship during first year.
+ </p><br><br>
+ <p>
+   <b>Projects:</b><br>
+   Website on E-bikes during first year internship.
+ </p>
+ <p class="left2">
+  <b>Extracurricular Activities:</b><br>
+   1.Badminton<br>
+   2.Sketching/Painting
+ </p>
+ <p>
+  <b> Skills:</b><br>
+   1.Course on cloud computing google<br>
+   2.Course on Canva and figma for UI/UX design in coursera
+ </p>
+ <p class="last">Lastly I also gained  good leadership qualities and ability to perform team work during my first internship.</p>
+</div>
+   </div>
+   </body>
+</html>
